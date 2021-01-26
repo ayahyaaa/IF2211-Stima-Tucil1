@@ -10,6 +10,9 @@ Requirement:
 Python IDLE (3.6++)
 *Author used 3.8
 
+*DISCLAIMER*
+Saya memakai huruf kecil untuk seluruh test case dan persoalan
+
 Cara Menggunakan Program:
 1. Klik kanan pada source code yang berada di folder src
 2. Pilih edit with IDLE
